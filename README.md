@@ -20,3 +20,8 @@ Information regarding files:
    This script automatically do the histogram matching by talking the images from 'ref' folder.
    The input for this script is in line '13'(you just need to change the input image path).
    the output will be shown on the screen.
+
+
+You will also need a .PTH file for running the project 
+
+Link for the .PTH file : https://drive.google.com/file/d/1MSUidN5vF-6Lgagy3U9yNpzsaYWSRZIK/view?usp=sharing
